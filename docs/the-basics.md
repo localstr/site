@@ -38,3 +38,6 @@ export const PortChooser = () => {
 };
 
 <PortChooser />
+apt update
+
+apt upgrade
